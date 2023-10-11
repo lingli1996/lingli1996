@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently working as a research assistant at [HKUST-CIVAL](https://hkust-cival.com/)
-- 🔭 My research interests lie in the exploration and development of Generative AI.
+- 🔭 My research interests lie in the exploration and development of Generative AI
   - Image Generation
   - Mutimodal Foundation Models
   - Visual Question Answering
