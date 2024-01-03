@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working as a research assistant at [HKUST-CIVAL](https://hkust-cival.com/)
+- 🌱 I am currently a Ph.D. student at [HKUST-CIVAL](https://hkust-cival.com/)
 - 🔭 My research interests lie in the exploration and development of Generative AI
   - Image Generation
   - Mutimodal Foundation Models
