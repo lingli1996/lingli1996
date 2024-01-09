@@ -3,7 +3,6 @@
 - 🔭 My research interests lie in the exploration and development of Generative AI
   - Image-to-Image Translation
   - Mutimodal Foundation Models
-  - Visual Question Answering
 
 <!--
 **lingli1996/lingli1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
