@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I am currently a Ph.D. student at [HKUST-CIVAL](https://hkust-cival.com/)
 - 🔭 My research interests lie in the exploration and development of Generative AI
-  - Image Generation
+  - Image-to-Image Translation
   - Mutimodal Foundation Models
   - Visual Question Answering
 
