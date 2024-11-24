@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I am currently a Ph.D. student at [HKUST-CIVAL](https://hkust-cival.com/)
-- 🔭 My research interests lie in the exploration and development of Generative AI and Computational Media
+- 🌱 I am currently a Ph.D. student
+- 🔭 My research interests lie in the exploration and development of Generative AI and Urban AI
   - Image-to-Image Translation
   - Multimodal Foundation Models
 
