@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🌱 I am currently a Ph.D. student
-- 🔭 My research interests lie in the exploration and development of Generative AI and Urban AI
-  - Image-to-Image Translation
-  - Multimodal Foundation Models
+- 🌱 My name is Ling Li, a second-year Ph.D. student in Data Science and Analysis (DSA) at HKUST(GZ)
+- 🔭 My research interests lie in the exploration and development of **Data-Centric AI** and **Urban AI**
+- 🤔 I am currently working on **Multimodal Large Language Models (MLLMs)** to advance intelligent systems for urban environments
+- 📫 You can reach me by email: lli297@connect.hkust-gz.edu.cn, mathlingli@gmail.com
+- 👤 More about me: https://lingli1996.github.io/
 
 <!--
 **lingli1996/lingli1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
