@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 My name is Ling Li, a second-year Ph.D. student in Data Science and Analytics (DSA) at HKUST(GZ)
+- 🌱 My name is Ling Li, a third-year Ph.D. student in Data Science and Analytics (DSA) at HKUST(GZ)
 - 🔭 My research interests lie in the exploration and development of **Data-Centric AI** and **Urban AI**
 - 🤔 I am currently working on **Multimodal Large Language Models (MLLMs)** to advance intelligent systems for urban environments
 - 📫 You can reach me by email: lli297@connect.hkust-gz.edu.cn, mathlingli@gmail.com
